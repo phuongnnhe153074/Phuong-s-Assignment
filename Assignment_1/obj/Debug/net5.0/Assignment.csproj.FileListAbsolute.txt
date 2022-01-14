@@ -1,0 +1,16 @@
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.exe
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.deps.json
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.json
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.runtimeconfig.dev.json
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.dll
+F:\Job training\Assignment\bin\Debug\net5.0\ref\Assignment.dll
+F:\Job training\Assignment\bin\Debug\net5.0\Assignment.pdb
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.csproj.AssemblyReference.cache
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfoInputs.cache
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.AssemblyInfo.cs
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.csproj.CoreCompileInputs.cache
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.dll
+F:\Job training\Assignment\obj\Debug\net5.0\ref\Assignment.dll
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.pdb
+F:\Job training\Assignment\obj\Debug\net5.0\Assignment.genruntimeconfig.cache
