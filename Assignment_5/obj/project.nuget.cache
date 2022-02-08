@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "42KNMPMRdkijwoDwKnb99DI+XFcjXHPMXASbl7dnDjlGJRxeRxlmbfdvMd5K6rONCfrzgt0xwv5RUhUE/1TaGA==",
+  "success": true,
+  "projectFilePath": "F:\\Job training\\Assignment\\Assignment_5\\Assignment_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NNPhuong\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
