@@ -1,0 +1,41 @@
+@model Person
+@{
+    ViewData["Title"] = "Create New Person";
+}
+<h1> Create New Person</h1>
+<div class="row">
+    <div class="col-6 offset-3">
+        <form asp-controller="People" asp-action="Create" method="post">
+            <div asp-validation-summary="All"></div>
+            <div class="form-group">
+                <label asp-for="firstname"></label>
+                <input asp-for="firstname" type="text" class="form-control" placeholder="Enter firstname"required>
+                <span asp-validation-for="firstname" class="text-danger"></span>
+            </div>
+<div class="form-group">
+    <label asp-for="lastname"></label>
+    <input asp-for="lastname" type="text" class="form-control"  placeholder="Enter lastname" required>
+    <span asp-validation-for="lastname" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="gender"></label>
+    <select asp-for="gender" class="form-control"> 
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+    </select>
+    <span asp-validation-for="gender" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="age"></label>
+    <input asp-for="age" type="text" class="form-control"  placeholder="Enter age"required>
+    <span asp-validation-for="age" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+    <label asp-for="address"></label>
+    <input asp-for="address" type="text" class="form-control"  placeholder="Enter address"required>
+    <span asp-validation-for="address" class="text-danger"></span>
+  </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
