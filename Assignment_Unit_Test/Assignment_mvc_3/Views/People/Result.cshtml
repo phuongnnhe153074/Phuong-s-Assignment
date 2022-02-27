@@ -1,0 +1,7 @@
+@model string
+@{
+    ViewData["Title"] = "Result page";
+    var deletedUserName = (string)ViewBag.deletedUserName;
+}
+<h1>@ViewData["Title"]</h1>
+<p>Person [@deletedUserName] was removed from the list successfully!</p>

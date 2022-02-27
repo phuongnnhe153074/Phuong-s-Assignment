@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "f:\\Job training\\Assignment\\Assignment_Unit_Test\\MVC.Tests\\MVC.Tests.csproj": {}
+  },
+  "projects": {
+    "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\Assignment_mvc_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\Assignment_mvc_2.csproj",
+        "projectName": "Assignment_mvc_2",
+        "projectPath": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\Assignment_mvc_2.csproj",
+        "packagesPath": "C:\\Users\\NNPhuong\\.nuget\\packages\\",
+        "outputPath": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NNPhuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "f:\\Job training\\Assignment\\Assignment_Unit_Test\\MVC.Tests\\MVC.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\MVC.Tests\\MVC.Tests.csproj",
+        "projectName": "MVC.Tests",
+        "projectPath": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\MVC.Tests\\MVC.Tests.csproj",
+        "packagesPath": "C:\\Users\\NNPhuong\\.nuget\\packages\\",
+        "outputPath": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\MVC.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NNPhuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\Assignment_mvc_2.csproj": {
+                "projectPath": "f:\\Job training\\Assignment\\Assignment_Unit_Test\\Assignment_mvc_3\\Assignment_mvc_2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
